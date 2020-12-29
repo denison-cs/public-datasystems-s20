@@ -1,0 +1,9 @@
+{
+  "mysql": {
+            "user": "nostudent", 
+            "pass": "nostudent",
+            "server": "hadoop2.mathsci.denison.edu",
+            "scheme": "mysql+mysqlconnector",
+            "database": "nostudent"
+            }
+}

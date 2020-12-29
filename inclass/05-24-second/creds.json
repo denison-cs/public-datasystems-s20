@@ -1,0 +1,25 @@
+{
+  "github": {
+    "protocol": "https",
+    "redirect_uri": "https://caileighmarshall.github.io/cs181project/",
+    "client_id": "10e406a004d82fea44d6",
+    "client_secret": "bdf8e3183ed8a8bb2eb216090d04539cfbdbba5e",
+    "state": "Z49HGVVP",
+    "code": "6bdaad26d15b1a7dc4e4",
+    "scope": "user repo read:org"
+  },
+  "spotify": {
+    "protocol": "https",
+    "redirect_uri": "https://caileighmarshall.github.io/cs181project/",
+    "client_id": "10e406a004d82fea44d6",
+    "client_secret": "bdf8e3183ed8a8bb2eb216090d04539cfbdbba5e",
+    "state": "P07QVAF1",
+    "code": "6bdaad26d15b1a7dc4e4"
+  },
+  "tmdb": {
+    "protocol": "https",
+    "location": "api.themoviedb.org",
+    "apikey": "",
+    "sessionid": ""
+  }
+}

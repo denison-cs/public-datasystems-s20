@@ -1,0 +1,9 @@
+{
+  "spotify": {
+    "protocol": "https",
+    "redirect_uri": "https://caileighmarshall.github.io/cs181project/",
+    "client_id": "",
+    "client_secret": "",
+    "user_id": ""
+  }
+}

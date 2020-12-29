@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<indicators>
+  <country code="FRA" name="France">
+    <timedata year="2007">
+      <pop>64.02</pop>
+      <gdp>2657.21</gdp>
+    </timedata>
+    <timedata year="2017">
+      <pop>66.87</pop>
+      <gdp>2586.29</gdp>
+    </timedata>
+  </country>
+  <country code="GBR" name="United Kingdom">
+    <timedata year="2007">
+      <pop>61.32</pop>
+      <gdp>3084.12</gdp>
+    </timedata>
+    <timedata year="2017">
+      <pop>66.06</pop>
+      <gdp>2637.87</gdp>
+    </timedata>
+  </country>
+  <country code="USA" name="United States">
+    <timedata year="2007">
+      <pop>301.23</pop>
+      <gdp>14451.9</gdp>
+    </timedata>
+    <timedata year="2017">
+      <pop>325.15</pop>
+      <gdp>19485.4</gdp>
+    </timedata>
+  </country>
+</indicators>

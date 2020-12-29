@@ -1,0 +1,8 @@
+{
+    "tmdb": {
+        "protocol": "https",
+        "location": "api.themoviedb.org",
+        "apikey": "foobar",
+        "sessionid": ""
+    }
+}

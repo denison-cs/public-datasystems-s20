@@ -1,0 +1,21 @@
+{
+  "spotify": {
+    "protocol": "https",
+    "redirect_uri": "https://caileighmarshall.github.io/cs181project/",
+    "userid": "w622cqswncii4yuvtw1gq9bph",
+    "client_id": "a01a0a6b1b1c45f2810cb36942393c57",
+    "client_secret": "b77507cad3754f6fafca494510cc49e5",
+    "state": "2Z57BVUQ",
+    "code": "AQCCviPArfcMGQcl-D-MywznFUZK-hkSR0GjaJOglVje11slhRgf85Lb04dUIFDbFIzQfUe4DslLunucJ8bsSDNzDDya19MtDH1YWDEEawU1XJhyhvwzD6FVj8kMgnViDAylVYjVhTXZhr25d7D_DY4Vvfsr6YOHywKTngu7oU_-qZfsqeAH9ha_Dyd417L2N6noUel6UuI0I6lUoPzaQc-oR7arWg",
+    "token": "BQDnzAnmLuxm2ClPVcrfhdeAG-QbsxSjjMZt3SrLbXF_KFAxohGkMHV3AJb9EVi1SO8Sak-1zP_1qTObSm9DUKIbs9zcUXGng9FD6lfyY-0Er_X5M_67Nnvev8M4569Eq_QdOtbzKMbzvhrMS2Fgvd1FrIgtrlP_Ww",
+    "refresh": "AQDoXgv6zfJYGQkeYQenz9Va0h8xq8WUzU6ZZa43tTkqZGv5hD1H4k5jPAeRE9ut7x3DobHsk9RyTjpQxbPFF_VnpKu9BexW8AfsDkRIPbFYbV3ooQYntbCBg4MGeE4I1dU",
+    "scope": "",
+    "expires": "2020-04-29 09:47:50.800796"
+  },
+  "tmdb": {
+    "protocol": "https",
+    "location": "api.themoviedb.org",
+    "apikey": "",
+    "sessionid": ""
+  }
+}
